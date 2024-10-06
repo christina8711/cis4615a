@@ -1,6 +1,6 @@
 //Rule 5 Sensitive classes must not let themselves be copied
 //Example 7 OBJ07-J. Sensitive classes must not let themselves be copied
-class SensitiveClass {
+final class SensitiveClass {
     private char[] filename;
     private Boolean shared = false;
 
