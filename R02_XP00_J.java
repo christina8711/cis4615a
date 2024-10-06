@@ -1,5 +1,5 @@
 //Rule 02. Expressions (EXP)
-import java.io.File;
+//Example EXP00-J. Do not ignore values returned by methods
 
 public void deleteFile() {
 
